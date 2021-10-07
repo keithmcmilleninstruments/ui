@@ -1,0 +1,2 @@
+#!/bin/sh
+webpack serve --devtool inline-source-map --port 8080

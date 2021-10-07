@@ -1,6 +1,6 @@
 {
   "name": "nexusui",
-  "version": "2.1.6",
+  "version": "2.1.61",
   "description": "NexusUI: Web Audio Interfaces",
   "main": "dist/NexusUI.js",
   "scripts": {
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nexus-js/ui"
+    "url": "https://github.com/keithmcmilleninstruments/ui"
   },
   "keywords": [],
   "author": "Benjamin Taylor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nexus-js/ui/issues"
+    "url": "https://github.com/keithmcmilleninstruments/ui/issues"
   },
   "homepage": "https://nexus-js.github.io/ui",
   "devDependencies": {

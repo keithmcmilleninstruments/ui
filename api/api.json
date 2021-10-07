@@ -74,7 +74,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/buttontemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/buttontemplate.js"
     },
     "augments": [
       {
@@ -201,7 +201,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/components/buttontemplate.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/buttontemplate.js"
           },
           "augments": [],
           "examples": [
@@ -327,7 +327,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/components/buttontemplate.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/buttontemplate.js"
           },
           "augments": [],
           "examples": [
@@ -504,7 +504,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/components/buttontemplate.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/buttontemplate.js"
           },
           "augments": [],
           "examples": [
@@ -629,7 +629,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/components/buttontemplate.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/buttontemplate.js"
           },
           "augments": [],
           "examples": [
@@ -775,7 +775,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/slidertemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/slidertemplate.js"
     },
     "augments": [],
     "examples": [
@@ -899,7 +899,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/slidertemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/slidertemplate.js"
     },
     "augments": [],
     "examples": [
@@ -1023,7 +1023,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/slidertemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/slidertemplate.js"
     },
     "augments": [],
     "examples": [
@@ -1147,7 +1147,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/slidertemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/slidertemplate.js"
     },
     "augments": [],
     "examples": [
@@ -1271,7 +1271,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/components/slidertemplate.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/components/slidertemplate.js"
     },
     "augments": [],
     "examples": [
@@ -1380,7 +1380,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/core/interface.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/core/interface.js"
     },
     "augments": [
       {
@@ -1512,7 +1512,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/core/interface.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/core/interface.js"
           },
           "augments": [],
           "examples": [
@@ -1746,7 +1746,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/core/interface.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/core/interface.js"
           },
           "augments": [],
           "examples": [
@@ -1902,7 +1902,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/button.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/button.js"
     },
     "augments": [
       {
@@ -2020,7 +2020,7 @@
                 "column": 35
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/button.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/button.js"
           },
           "augments": [],
           "examples": [
@@ -2179,7 +2179,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
     },
     "augments": [
       {
@@ -2297,7 +2297,7 @@
                 "column": 5
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -2425,7 +2425,7 @@
                 "column": 5
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -2553,7 +2553,7 @@
                 "column": 5
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -2681,7 +2681,7 @@
                 "column": 5
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -2809,7 +2809,7 @@
                 "column": 5
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -2937,7 +2937,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/dial.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/dial.js"
           },
           "augments": [],
           "examples": [
@@ -3093,7 +3093,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
     },
     "augments": [
       {
@@ -3196,7 +3196,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -3320,7 +3320,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -3552,7 +3552,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -3741,7 +3741,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -4044,7 +4044,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -4333,7 +4333,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -4508,7 +4508,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/envelope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/envelope.js"
           },
           "augments": [],
           "examples": [],
@@ -4713,7 +4713,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/meter.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/meter.js"
     },
     "augments": [
       {
@@ -4836,7 +4836,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/meter.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/meter.js"
           },
           "augments": [],
           "examples": [
@@ -5064,7 +5064,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/meter.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/meter.js"
           },
           "augments": [],
           "examples": [],
@@ -5216,7 +5216,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
     },
     "augments": [
       {
@@ -5329,7 +5329,7 @@
                 "column": 45
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [],
@@ -5446,7 +5446,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [],
@@ -5570,7 +5570,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [
@@ -5698,7 +5698,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [
@@ -5826,7 +5826,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [
@@ -5959,7 +5959,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [
@@ -6200,7 +6200,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
           },
           "augments": [],
           "examples": [
@@ -6393,7 +6393,7 @@
           "column": 36
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/multislider.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/multislider.js"
     },
     "augments": [],
     "examples": [],
@@ -6522,11 +6522,11 @@
           "column": 0
         },
         "end": {
-          "line": 262,
+          "line": 281,
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
     },
     "augments": [
       {
@@ -6626,26 +6626,26 @@
           ],
           "loc": {
             "start": {
-              "line": 181,
+              "line": 185,
               "column": 2
             },
             "end": {
-              "line": 185,
+              "line": 189,
               "column": 4
             }
           },
           "context": {
             "loc": {
               "start": {
-                "line": 186,
+                "line": 190,
                 "column": 2
               },
               "end": {
-                "line": 205,
+                "line": 209,
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
           },
           "augments": [],
           "examples": [
@@ -6657,7 +6657,7 @@
             {
               "title": "param",
               "name": "destination",
-              "lineNumber": 186
+              "lineNumber": 190
             },
             {
               "title": "param",
@@ -6821,26 +6821,26 @@
           ],
           "loc": {
             "start": {
-              "line": 212,
+              "line": 220,
               "column": 2
             },
             "end": {
-              "line": 216,
+              "line": 224,
               "column": 4
             }
           },
           "context": {
             "loc": {
               "start": {
-                "line": 217,
+                "line": 225,
                 "column": 2
               },
               "end": {
-                "line": 219,
+                "line": 227,
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
           },
           "augments": [],
           "examples": [
@@ -6949,26 +6949,26 @@
           ],
           "loc": {
             "start": {
-              "line": 226,
+              "line": 245,
               "column": 2
             },
             "end": {
-              "line": 230,
+              "line": 249,
               "column": 4
             }
           },
           "context": {
             "loc": {
               "start": {
-                "line": 231,
+                "line": 250,
                 "column": 2
               },
               "end": {
-                "line": 233,
+                "line": 252,
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
           },
           "augments": [],
           "examples": [
@@ -7077,26 +7077,26 @@
           ],
           "loc": {
             "start": {
-              "line": 238,
+              "line": 257,
               "column": 2
             },
             "end": {
-              "line": 242,
+              "line": 261,
               "column": 4
             }
           },
           "context": {
             "loc": {
               "start": {
-                "line": 243,
+                "line": 262,
                 "column": 2
               },
               "end": {
-                "line": 245,
+                "line": 264,
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
           },
           "augments": [],
           "examples": [
@@ -7205,26 +7205,26 @@
           ],
           "loc": {
             "start": {
-              "line": 250,
+              "line": 269,
               "column": 2
             },
             "end": {
-              "line": 254,
+              "line": 273,
               "column": 4
             }
           },
           "context": {
             "loc": {
               "start": {
-                "line": 255,
+                "line": 274,
                 "column": 2
               },
               "end": {
-                "line": 257,
+                "line": 276,
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/number.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/number.js"
           },
           "augments": [],
           "examples": [
@@ -7375,7 +7375,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/oscilloscope.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/oscilloscope.js"
     },
     "augments": [
       {
@@ -7491,7 +7491,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/oscilloscope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/oscilloscope.js"
           },
           "augments": [],
           "examples": [
@@ -7662,7 +7662,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/oscilloscope.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/oscilloscope.js"
           },
           "augments": [],
           "examples": [],
@@ -7809,7 +7809,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan.js"
     },
     "augments": [
       {
@@ -7919,7 +7919,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan.js"
           },
           "augments": [],
           "examples": [],
@@ -8071,7 +8071,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
     },
     "augments": [
       {
@@ -8174,7 +8174,7 @@
                 "column": 35
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -8281,7 +8281,7 @@
                 "column": 43
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -8388,7 +8388,7 @@
                 "column": 37
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -8495,7 +8495,7 @@
                 "column": 21
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -8617,7 +8617,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -8863,7 +8863,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
           },
           "augments": [],
           "examples": [],
@@ -9164,7 +9164,7 @@
           "column": 3
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/pan2d.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/pan2d.js"
     },
     "augments": [],
     "examples": [],
@@ -9418,7 +9418,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/piano.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/piano.js"
     },
     "augments": [
       {
@@ -9536,7 +9536,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/piano.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/piano.js"
           },
           "augments": [],
           "examples": [],
@@ -9775,7 +9775,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/piano.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/piano.js"
           },
           "augments": [],
           "examples": [],
@@ -10014,7 +10014,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/piano.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/piano.js"
           },
           "augments": [],
           "examples": [],
@@ -10281,7 +10281,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
     },
     "augments": [
       {
@@ -10399,7 +10399,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [
@@ -10527,7 +10527,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [
@@ -10650,7 +10650,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -10769,7 +10769,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -10888,7 +10888,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -11007,7 +11007,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -11126,7 +11126,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -11245,7 +11245,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [],
@@ -11369,7 +11369,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/position.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/position.js"
           },
           "augments": [],
           "examples": [
@@ -11525,7 +11525,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/radiobutton.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/radiobutton.js"
     },
     "augments": [
       {
@@ -11636,7 +11636,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/radiobutton.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/radiobutton.js"
           },
           "augments": [],
           "examples": [],
@@ -11803,7 +11803,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/radiobutton.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/radiobutton.js"
           },
           "augments": [],
           "examples": [],
@@ -11923,7 +11923,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/radiobutton.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/radiobutton.js"
           },
           "augments": [],
           "examples": [],
@@ -12137,7 +12137,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/select.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/select.js"
     },
     "augments": [
       {
@@ -12251,7 +12251,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/select.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/select.js"
           },
           "augments": [],
           "examples": [],
@@ -12437,7 +12437,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/select.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/select.js"
           },
           "augments": [],
           "examples": [
@@ -12565,7 +12565,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/select.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/select.js"
           },
           "augments": [],
           "examples": [
@@ -12700,7 +12700,7 @@
           "column": 70
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
     },
     "augments": [],
     "examples": [],
@@ -12813,7 +12813,7 @@
           "column": 79
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
     },
     "augments": [],
     "examples": [],
@@ -12957,7 +12957,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
     },
     "augments": [
       {
@@ -13075,7 +13075,7 @@
                 "column": 35
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [
@@ -13196,7 +13196,7 @@
                 "column": 60
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13313,7 +13313,7 @@
                 "column": 77
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13430,7 +13430,7 @@
                 "column": 53
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13548,7 +13548,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13719,7 +13719,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13828,7 +13828,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -13947,7 +13947,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -14066,7 +14066,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/sequencer.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/sequencer.js"
           },
           "augments": [],
           "examples": [],
@@ -14218,7 +14218,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
     },
     "augments": [
       {
@@ -14336,7 +14336,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
           },
           "augments": [],
           "examples": [
@@ -14464,7 +14464,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
           },
           "augments": [],
           "examples": [
@@ -14592,7 +14592,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
           },
           "augments": [],
           "examples": [
@@ -14720,7 +14720,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
           },
           "augments": [],
           "examples": [
@@ -14848,7 +14848,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/slider.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/slider.js"
           },
           "augments": [],
           "examples": [
@@ -14999,7 +14999,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/spectrogram.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/spectrogram.js"
     },
     "augments": [
       {
@@ -15115,7 +15115,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/spectrogram.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/spectrogram.js"
           },
           "augments": [],
           "examples": [
@@ -15286,7 +15286,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/spectrogram.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/spectrogram.js"
           },
           "augments": [],
           "examples": [],
@@ -15438,7 +15438,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/textbutton.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/textbutton.js"
     },
     "augments": [
       {
@@ -15551,7 +15551,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/textbutton.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/textbutton.js"
           },
           "augments": [],
           "examples": [],
@@ -15670,7 +15670,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/textbutton.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/textbutton.js"
           },
           "augments": [],
           "examples": [],
@@ -15817,7 +15817,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/tilt.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/tilt.js"
     },
     "augments": [
       {
@@ -15927,7 +15927,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/tilt.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/tilt.js"
           },
           "augments": [],
           "examples": [],
@@ -16079,7 +16079,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/interfaces/toggle.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/toggle.js"
     },
     "augments": [
       {
@@ -16197,7 +16197,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/toggle.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/toggle.js"
           },
           "augments": [],
           "examples": [
@@ -16316,7 +16316,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/interfaces/toggle.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/interfaces/toggle.js"
           },
           "augments": [],
           "examples": [
@@ -16437,11 +16437,11 @@
           "column": 0
         },
         "end": {
-          "line": 104,
+          "line": 106,
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/main.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/main.js"
     },
     "augments": [],
     "examples": [],
@@ -16601,7 +16601,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
     },
     "augments": [],
     "examples": [],
@@ -16887,7 +16887,7 @@
                 "column": 19
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -16994,7 +16994,7 @@
                 "column": 19
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17101,7 +17101,7 @@
                 "column": 40
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17208,7 +17208,7 @@
                 "column": 38
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17315,7 +17315,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17424,7 +17424,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17554,7 +17554,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/range.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/range.js"
           },
           "augments": [],
           "examples": [],
@@ -17864,7 +17864,7 @@
           "column": 1
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/models/step.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/step.js"
     },
     "augments": [],
     "examples": [],
@@ -18223,7 +18223,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/step.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/step.js"
           },
           "augments": [],
           "examples": [],
@@ -18353,7 +18353,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/step.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/step.js"
           },
           "augments": [],
           "examples": [],
@@ -18472,7 +18472,7 @@
                 "column": 3
               }
             },
-            "file": "/Users/tatecarson/webDev/ui/lib/models/step.js"
+            "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/models/step.js"
           },
           "augments": [],
           "examples": [],
@@ -18638,7 +18638,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -19056,7 +19056,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -19556,7 +19556,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -19832,7 +19832,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -20200,7 +20200,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -20394,7 +20394,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -20660,7 +20660,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -20987,7 +20987,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -21304,7 +21304,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -21590,7 +21590,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
@@ -22033,7 +22033,7 @@
           "column": 2
         }
       },
-      "file": "/Users/tatecarson/webDev/ui/lib/util/math.js"
+      "file": "/Users/andrej/Documents/KMI/Web Apps/NexusUI/nexusui/lib/util/math.js"
     },
     "augments": [],
     "examples": [
