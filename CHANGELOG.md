@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.8](https://github.com/keithmcmilleninstruments/ui/compare/v2.1.6...v2.1.8) (2021-10-21)
+
 ### [2.1.6](https://github.com/nexus-js/ui/compare/v2.1.5...v2.1.6) (2020-08-29)
 
 ### [2.1.5](https://github.com/nexus-js/ui/compare/v2.1.4...v2.1.5) (2020-07-26)
