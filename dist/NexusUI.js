@@ -109,7 +109,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	*/
 	
 	var NexusUI = (function () {
-	  function NexusUI(context) {
+	  function NexusUI() {
 	    _classCallCheck(this, NexusUI);
 	
 	    for (var key in Interfaces) {
@@ -706,9 +706,11 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	exports.prune = function (data, scale) {
 	  var value = parseFloat(data);
-	  if (data % 1) {
+	
+	  if (value % 1 === 0) {
 	    value += 0.0001;
 	  }
+	
 	  return parseFloat(value.toFixed(scale));
 	};
 	
@@ -1691,7 +1693,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        } else {
 	          this.value = math.clip(value, this.min, this.max);
 	        }
-	        if (window._debug = "nexus") console.log("old", this.oldValue, "new", this.value);
+	        if (window._debug === "nexus") console.log("old", this.oldValue, "new", this.value);
 	        if (this.oldValue !== this.value) {
 	          this.oldValue = this.value;
 	          this.changed = true;
@@ -3368,7 +3370,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	          // TODO: allow format override
 	          // return /^-?\d*\.?\d*$/.test(value); // only decimals
 	          // return /^[0-9a-zA-Z]+$/.test(value); // all alphanumeric
-	          if (window._debug = "nexus") console.log("input filter", value, /^[ A-Za-z0-9./+-]*$/.test(value));
+	          if (window._debug === "nexus") console.log("input filter", value, /^[ A-Za-z0-9./+-]*$/.test(value));
 	          return /^[ A-Za-z0-9./+-]*$/.test(value); // all alphanumeric plus decimal
 	        });
 	
@@ -3442,7 +3444,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	          this.value = newvalue;
 	
 	          this.render();
-	          if (this._value.changed) {}
+	          // if (this._value.changed) {
+	          // this.emit('change',this.value);
+	          // console.log('emit:change:move', this.value, this.step)
+	          // }
 	        }
 	      }
 	    },
@@ -3511,12 +3516,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	        return this._value.value;
 	      },
 	      set: function (v) {
-	        if (this.step % 1 === 0) {} else {}
-	
 	        this._value.update(v);
 	
 	        if (this._value.changed) {
-	          // console.log('emit:change:set', this.value, v, this.step, 'changed',this._value.changed)
+	          if (window._debug === "nexus") console.log("emit:change:set", this.value, v, this.step, "changed", this._value.changed);
 	          this.emit("change", this.value);
 	        }
 	
@@ -3574,13 +3577,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	})(Interface);
 	
 	module.exports = Number;
-	
-	// this.emit('change',this.value);
-	// console.log('emit:change:move', this.value, this.step)
-
-	// console.log('int step', this.step, this.value, v)
-
-	// console.log('float step', this.step, this.value, v)
 
 /***/ }),
 /* 21 */
